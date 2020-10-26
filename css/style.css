@@ -27,7 +27,7 @@ h1{
 	font-style: italic;
 	font-family: Arial, Helvetica;
 	text-align: center;
-	color: #00D8F5;
+	color: ##ddfa5f;
 	line-height: 0%;
 	text-shadow: 7px 7px #0e0b28;
 }
@@ -37,32 +37,32 @@ h1{
 }
 
 a#mainlink:link{
-	color:  #00D8F5;
+	color:  ##ddfa5f;
 }
 
 a#mainlink:visited{
-    color:  #00D8F5;	
+    color:  ##ddfa5f;	
 }
 
 a#mainlink:hover{
 	font-size: 103%;
-	color:  #00D8F5;
+	color:  ##ddfa5f;
 }
 
 a#mainlink:focus{
 	font-size: 103%;
-	color:  #00D8F5;
+	color:  ##ddfa5f;
 }
 
 .fa-arrow-left{
 	font-size: 5vw;
-	color:#00D8F5;
+	color:##ddfa5f;
 	text-shadow: 7px 7px #0e0b28;
 }
 
 .fa-arrow-right{
 	font-size: 5vw;
-	color:#00D8F5;
+	color:##ddfa5f;
 	text-shadow: 7px 7px #0e0b28;
 	position: absolute;
     top: 0;
@@ -70,11 +70,11 @@ a#mainlink:focus{
 }
 
 a.backfront:link{
-	color: #00D8F5;
+	color: ##ddfa5f;
 }
 
 a.backfront:visited{
-	color: #00D8F5;
+	color: ##ddfa5f;
 }
 
 a.backfront:hover{
@@ -87,11 +87,11 @@ a.backfront:focus{
 
 
 a.backfront1:link{
-	color: #00D8F5;
+	color: ##ddfa5f;
 }
 
 a.backfront1:visited{
-	color: #00D8F5;
+	color: ##ddfa5f;
 }
 
 a.backfront1:hover{
