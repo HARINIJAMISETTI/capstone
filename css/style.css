@@ -16,7 +16,7 @@
 header{
 	position: fixed;
 	top:0;
-	background-image: url("img.jpg");
+	background-image: url("../images/header-bg1.png");
     background-size: cover;
 	width: 100%;
 	height: 150px; 
@@ -470,7 +470,7 @@ hr{
 
 /*footer start*/
 footer{
-	background-image: url("img.jpg");
+	background-image: url("../images/header-bg1.png");
     background-size: cover;
 	width: 100%;
 	height: 220px; 
