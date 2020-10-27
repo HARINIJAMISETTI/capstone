@@ -29,7 +29,7 @@ h1{
 	text-align: center;
 	color: #ddfa5f;
 	line-height: 0%;
-	text-shadow: 7px 7px #474461;
+	text-shadow: 7px 7px #b0bd77;
 }
 
 #mainlink{
@@ -57,13 +57,13 @@ a#mainlink:focus{
 .fa-arrow-left{
 	font-size: 5vw;
 	color:#ddfa5f;
-	text-shadow: 7px 7px #474461;
+	text-shadow: 7px 7px #b0bd77;
 }
 
 .fa-arrow-right{
 	font-size: 5vw;
 	color:#ddfa5f;
-	text-shadow: 7px 7px #474461;
+	text-shadow: 7px 7px #b0bd77;
 	position: absolute;
     top: 0;
     right: 20px;
@@ -395,7 +395,7 @@ h2{
 	font-family:Candara, Arial, Helvetica;
 	text-align: center;
 	color: #ddfa5f;
-	text-shadow: 4px 4px #474461;
+	text-shadow: 4px 4px #b0bd77;
 	font-weight: bolder;
 }
 
